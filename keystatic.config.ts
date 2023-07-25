@@ -6,7 +6,7 @@ export default config({
       ? {
           kind: "github",
           repo: {
-            name: "rohid-dev",
+            name: "rohid-dev-v2",
             owner: "iam-rohid",
           },
         }
